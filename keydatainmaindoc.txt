@@ -1,0 +1,13 @@
+Aquí está la solución de referencia, si tiene curiosidad:
+
+Los 8 encabezados son:
+-- Nombre
+- Descripción
+- Uso
+- Insignias (por ejemplo, InnerSource, OpenSource)
+- Palabras clave
+- Enlaces clave de gestión de proyectos (es decir, enlaces a historias de Rally)
+- Enlaces de documentación (incluye Contribución, Ayuda deseada y Primeros pasos)
+- Ubicación de la lista de anuncios
+
+Tomado de la página Wiki de InnerSource Commons: https://github.com/paypal/InnerSourceCommons/wiki/CreatingAReadme

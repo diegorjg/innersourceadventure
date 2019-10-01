@@ -1,0 +1,15 @@
+SOLUCIÓN
+--------------------------------------------------
+Los cinco (5) principios son: 
+
+1) Desarrollo más rápido: los programadores usan pruebas unitarias, cobertura de código e integración continua para eliminar errores en las primeras etapas
+
+2) Documentación completa: el código se documenta mejor, tanto los comentarios en el código y menos formalmente en las listas de discusión
+
+3) Reutilización del código: los programadores de toda la organización entienden el código y la arquitectura de los módulos desarrollados por otros equipos
+
+4) Colaboración entre equipos: las contribuciones de miembros externos al equipo no tienen fricción y rara vez tienen que reescribirse
+
+5) Desarrollo con GitHub: GitHub mantiene repositorios privados para proyectos internos, así como repositorios públicos para código fuente abierto
+
+Tomado del sitio de InnerSource Commons en: https://paypal.github.io/InnerSourceCommons/getting-started/

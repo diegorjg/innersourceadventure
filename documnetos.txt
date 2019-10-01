@@ -1,0 +1,15 @@
+--------------------------------------------------
+SOLUCIÓN
+--------------------------------------------------
+Los cuatro documentos son:
+
+   - README.md es para mejorar la capacidad de búsqueda; nombre, descripción, nombres anteriores de proyectos, palabras clave, anuncios sobre compilaciones, lanzamientos, errores y problemas de rendimiento; información sobre listas de discusión.
+
+   - HELPWANTED.md enlaces a la cartera de pedidos de rally, problemas, código abandonado; incluye un sistema de clasificación (fácil, intermedio, difícil)
+
+   - GETTINGSTARTED.md explica cómo uno puede comenzar a ejecutar la aplicación, instalar y usar un componente, o construir y usar una biblioteca, etc.
+
+   - CONTRIBUTING.md - todos los requisitos; actúa como un Acuerdo de Licencia de Contribución (CLA); conjunto escrito de expectativas entre grupos.
+
+
+  La discusión sobre estos archivos se puede encontrar en el InnerSource Commons Wiki en: https://github.com/paypal/InnerSourceCommons/wiki/InnerSource-basic-checklist-for-GitHub.
